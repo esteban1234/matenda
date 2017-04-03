@@ -133,3 +133,29 @@ footer p{
     /*background-color: rgba(0, 0, 0, 0.6);*/
     background-color: black;
 }
+/*---------------------nosotros--------------*/
+
+.contenimgtext{
+    /*outline: 2px red solid;*/
+    margin-top: 2%;
+}
+.titulo{
+    /*outline: 2px red solid;*/
+    padding: 15px 0px;
+    background-color: #C01717;
+}
+
+.titulo p{
+    width: 80%;
+    margin-left: 5%;
+    color: #fff;
+}
+.cuadro{
+    /*outline: 2px red solid;*/
+}
+.cuadro p{
+    margin-top: 10%;
+    margin-right: 2%;
+     font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+}

@@ -14,16 +14,16 @@
         <div class="collapse navbar-collapse" id="navbar-ex-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li class="active servicios">
-              <a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;INDEX</a>
+              <a href="index.php"><i class="fa fa-home fa-fw"></i>&nbsp;INDEX</a>
             </li>
             <li>
-              <a href="#"><i class="fa fa-users fa-fw"></i>&nbsp;NOSOTROS</a>
+              <a href="vistas/nosotros.php"><i class="fa fa-users fa-fw"></i>&nbsp;NOSOTROS</a>
             </li>
             <li>
-              <a href="#"><i class="fa fa-cogs fa-fw"></i>&nbsp;SERVICIOS</a>
+              <a href="vistas/servicios.php"><i class="fa fa-cogs fa-fw"></i>&nbsp;SERVICIOS</a>
             </li>
             <li>
-              <a href="#"><i class="fa fa-fax fa-fw"></i>&nbsp;CONTACTO</a>
+              <a href="vistas/contacto.php"><i class="fa fa-fax fa-fw"></i>&nbsp;CONTACTO</a>
             </li>
           </ul>
         </div>
@@ -39,7 +39,7 @@
         <div class="row">
           <div class="col-md-6 contenbanner">
           <p>Soluciones inmobiliarias integrales.</p>
-          	<button type="button" class="btn btn-danger btn-lg botonbanner">Contáctanos</button>
+          	<a href="vistas/contacto.php"><button type="button" class="btn btn-danger btn-lg botonbanner">Contáctanos</button></a>
           	<!-- <p class="boton"><a href="vistas/contacto.php">Contáctanos</a></p> -->
           </div>
           <div class="col-md-6">

@@ -1,86 +1,75 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-		<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-fondo">
 
-			<div class="col-md-8 pull-right menu">
-				<ul class="nav nav-tabs">
-          <p class="icon-cerrar"><i class="fa fa-times" aria-hidden="true"></i></p>
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation" class="active"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-      <p class="icon-menu"><i class="fa fa-bars" aria-hidden="true"></i></p>
-		</header>
+<div class="navbar navbar-default navbar-static-top contenmenu">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="">
+              <a href="../index.php"><i class="fa fa-home fa-fw"></i>&nbsp;INDEX</a>
+            </li>
+            <li  class="active">
+              <a href="nosotros.php"><i class="fa fa-users fa-fw"></i>&nbsp;NOSOTROS</a>
+            </li>
+            <li>
+              <a href="servicios.php"><i class="fa fa-cogs fa-fw"></i>&nbsp;SERVICIOS</a>
+            </li>
+            <li>
+              <a href="contacto.php"><i class="fa fa-fax fa-fw"></i>&nbsp;CONTACTO</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
-    <a class="go-top" href="#">Subir</a>
-
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Quienes Somos</li>
-		</ul>
-
-		<article class="contennosotros">
-			<h1 class="colorh2">Conocenos</h1>
-	        <div class="row">
-	          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-	            <img class="imgmedio" src="../img/medioambiente.jpg"
-	            class="img-responsive">
-	          </div>
-	          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-	            <p class="text-nosotros colorp">
-	              Somos una empresa dedicada a la producción de análisis científicos del subsuelo, otorgando servicios de geofísica, medio ambiente y arquitectura, brindando soluciones efectivas al mejor costo para nuestros clientes.
-	              <br><br>
-
-	              Promoveemos e impulsamos iniciativas en desarrollo sustentable a través de nuestros servicios, promoviendo el cuidado y conservación del medio ambiente. Somos una empresa conformada por profesionales y expertos en múltiples disciplinas entre las que se destacan Especialistas en Sistemas de Información, Geólogos, Ingenieros Geólogos, Geofísicos, Ingenieros de Petróleos, Ingenieros de Sistemas, Ingenieros Electrónicos, Físicos,  entre otros;
-	            </p>
-	          </div>
-	        </div>
-		</article>
-
-        <div class="row content-img">
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/mision.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Misión</h2>
-            <p class="colorp">
-            	Ofrecer servicios de consultoría del sector ambiental, servicos de levantamiento geofísico y servicos de arquitectura con la mas alta calidad y apegados a estandares internacionales atendiendo las necesidades de nuestros clientes de forma rápida, profesional y con enfoque humanista.
-            </p>
+    <div class="section contenimgtext">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="../img/notros3.png"
+            class="img-responsive">
           </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/vision.png"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Visión</h2>
-            <p class="colorp">
-              Ser una empresa reconocida cuyo trabajo contribuye a la generación y fortalecimiento de una cultura ambiental en todos sus servicios y por lo consiguiente lider en el sector de la consultoría y servicios geofísicos.
-            </p>
-          </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/objetivo.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Objetivo</h2>
-            <p class="colorp">
-              Brindar los mejores servicios de análisis Geofísicos del mercado, apoyándonos completamente de todo nuestro equipo, conocimiento y experiencia, contando con la innovación, la actualización tecnológica, y la satisfacción de nuestros clientes. 
-            </p>
-          </div>
-          <div class="col-xs-12 col-sm-12 col-md-3">
-            <img src="../img/valores.jpg"
-            class="img-responsive imgmvs">
-            <h2 class="colorh2">Valores</h2>
-            <p class="colorp">
-              Nuestros valores son, la honestidad, lealtad, trabajo y responsabilidad, para entregarle los mas rentables resultados y fortalecer al máximo su proyecto.
+          <div class="col-md-6">
+            <h1>Sobre MATENDA PROMOTORA</h1>
+            <h3>Inmobiliarias y corredores de bienes raíces</h3>
+            <p>Somos una empresa joven pero con retos,  formados por un grupo de profesionales cuyo objetivo es brindarle su apoyo y conocimiento al momento de invertir o vender un inmueble. Somos una empresa que a través de sus áreas de negocio ofrece un amplia gama de servicios inmobiliarios siguiendo los más altos estándares del ramo. <br><br>
+
+            <i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;EXCELENCIA EN EL SERVICIO INMOBILIARIO. <br><br>
+            <i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;TENEMOS LOS ASESORES MEJORES CAPACITADOS.
             </p>
           </div>
         </div>
+      </div>
+    </div>
 
+    <h2 class="titulo"><p>¿Porque MATENDA PROMOTORA?</p></h2>
+
+     <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 cuadro"><i class="fa fa-address-book fa-5x" aria-hidden="true"></i><p class="pull-right">Asesoría hipotecaria.
+          </p></div>
+          <div class="col-md-3 cuadro"><i class="fa fa-usd fa-5x" aria-hidden="true"></i><p class="pull-right">Mejor precio del mercado.
+          </p></div>
+          <div class="col-md-3 cuadro"><i class="fa fa-street-view fa-5x" aria-hidden="true"></i><p class="pull-right">Excelentes ubicaciones.
+          </p></div>
+          <div class="col-md-3 cuadro"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i><p class="pull-right">Gran variedad en casas.
+          </p></div>
+        </div>
+      </div>
+    </div>
+	
+<a class="go-top" href="#">Ir arriba</a>
 <?php include 'pie.php' ?>
-
-	</article>
-
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
