@@ -1,0 +1,135 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.contenmenu{
+    /*outline: 2px red solid;*/
+    margin-bottom: 0px;
+    /*background-color: #C01717;*/
+}
+.uno{
+    margin-top: 0px;
+    overflow: hidden;
+}
+
+.contenbanner{
+    /*outline: 2px red solid;*/
+    margin-top: 0px;
+    position: relative;
+    height: 410px;
+    background: url('../img/banner.jpg') no-repeat center;
+    background-size: cover;
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+    clear: both;
+}
+.contenbanner p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 28px;
+    color: #fff;
+    /*background-color: rgba(255,255,255,.5);*/
+    background-color: rgba(0,0,0,.5);
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: 10px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+.botonbanner{
+    margin-top: 48%;
+    margin-left: 72%;
+}
+/*.boton{
+    text-align: right;
+    width: 100%;
+  
+}
+.boton a{
+    text-decoration: none;
+    color: #fff;
+    background: rgb(242,138,21);
+    padding: 15px 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.boton a:hover{
+    background-color: rgb(67,67,67);
+}*/
+
+.bannerdirec{
+    background: #F8F8F8;
+    padding: 20px 0px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.texto{
+    /*outline: 2px red solid;*/
+    text-align: center;
+    padding: 15px 0px;
+    background-color: #545353;
+    color: #fff;
+    margin-top: 0px;
+}
+
+.boton2{
+    /*outline: 2px red solid;*/
+    text-align: center;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%; 
+}
+.boton2 a{
+    text-decoration: none;
+    color: #fff;
+    background: #C01717;
+    padding: 15px 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.boton2 a:hover{
+    background-color: rgb(67,67,67);
+}
+
+footer{
+    background:#C01717;
+    font-family: 'Oswald', sans-serif;
+    height: 100px;
+    /*font-size: 20px;*/
+    overflow: hidden;
+}
+footer p{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 3%;
+    color: #fff;
+}
+/*------------------IR ARRIBa------------*/
+
+.go-top {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    text-decoration: none;
+    color: #fff;
+    /*background-color: rgb(0, 0, 0, );*/
+    background-color: #C01717;
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.go-top:hover {
+    /*background-color: rgba(0, 0, 0, 0.6);*/
+    background-color: black;
+}
