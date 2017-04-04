@@ -178,3 +178,35 @@ footer p{
 .tit{
     margin-top: 0%;
 }
+
+/*------------------servicios----------------*/
+
+.bannerser{
+    /*outline: 2px red solid;*/
+    position: relative;
+    height: 307px;
+    background: url('../img/bannerser.jpg');
+    /*background-size: cover;*/
+    /*background-position: center center;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.bannerser p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    background-color: rgba(0,0,0,.5);
+    width: 15%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 10px 0px;
+    text-align: center;
+    overflow: hidden;
+}
+.contenpuntos{
+    /*outline: 2px red solid;*/
+    width: 80%;
+    margin: 0 auto;
+}
