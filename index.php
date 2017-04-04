@@ -62,25 +62,25 @@
           <div class="col-md-3">
             <img src="img/guia.jpg"
             class="img-responsive">
-            <h2>Te proporcionamos una guia para vender tu casa</h2>
+            <h3>Te proporcionamos una guia para vender tu casa</h3>
             
           </div>
           <div class="col-md-3">
             <img src="img/guia.jpg"
             class="img-responsive">
-            <h2>Te proporcionamos una guia para comprar tu casa</h2>
+            <h3>Te proporcionamos una guia para comprar tu casa</h3>
             
           </div>
           <div class="col-md-3">
             <img src="img/agenc.jpg"
             class="img-responsive">
-            <h2>Somos agencia pero tambien particulares</h2>
+            <h3>Somos agencia pero tambien particulares</h3>
             
           </div>
           <div class="col-md-3">
             <img src="img/tramites.jpg"
             class="img-responsive">
-            <h2>Todos los tramites son transparentes</h2>
+            <h3>Todos los tramites son transparentes</h3>
             
           </div>
         </div>

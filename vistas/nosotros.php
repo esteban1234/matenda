@@ -40,7 +40,7 @@
           </div>
           <div class="col-md-6">
             <h1>Sobre MATENDA PROMOTORA</h1>
-            <h3>Inmobiliarias y corredores de bienes raíces</h3>
+            <h3>Inmobiliaria y corredores de bienes raíces</h3>
             <p>Somos una empresa joven pero con retos,  formados por un grupo de profesionales cuyo objetivo es brindarle su apoyo y conocimiento al momento de invertir o vender un inmueble. Somos una empresa que a través de sus áreas de negocio ofrece un amplia gama de servicios inmobiliarios siguiendo los más altos estándares del ramo. <br><br>
 
             <i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;EXCELENCIA EN EL SERVICIO INMOBILIARIO. <br><br>
@@ -64,6 +64,48 @@
           </p></div>
           <div class="col-md-3 cuadro"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i><p class="pull-right">Gran variedad en casas.
           </p></div>
+        </div>
+      </div>
+    </div>
+
+
+     <div class="section valores">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+            <img src="../img/mision2.jpg"
+            class="img-responsive img-rounded">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left tit">Misión</h3>
+            <p class="text-left">Satisfacer a nuestros clientes con un servicio personalizado y profesional, ofreciendo siempre un producto inmobiliario de alta calidad con todos los servicios relacionados con la correduría de bienes raíces.</p>
+          </div>
+          <div class="col-md-2">
+            <img src="../img/vision.jpg"
+            class="img-responsive img-rounded">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left tit">Visión</h3>
+            <p class="text-left">Ser la empresa líder en el área de bienes raíces, ofreciendo un servicio con los más estándares de calidad y así lograr satisfacer a nuestros clientes en todas sus necesidades.</p>
+          </div>
+        </div>
+        <div class="row row2">
+          <div class="col-md-2">
+            <img src="../img/objetivo.jpg"
+            class="img-responsive img-rounded">
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left tit">Objetivo</h3>
+            <p class="text-left">Alcanzar y mantener los más altos estándares de satisfacción al cliente en el sector inmobiliario, a través de nuestros inmuebles y servicios innovadores.</p>
+          </div>
+          <div class="col-md-2">
+            <img src="../img/valores.jpg"
+            class="img-responsive img-rounded">
+          </div>
+          <div class="col-md-4 text-center">
+            <h3 class="text-left tit">Valores</h3>
+            <p class="text-left">Transparencia, Éxito, Excelencia, Comunicación, Trabajo en equipo, Formación, Consistencia, Pertenencia</p>
+          </div>
         </div>
       </div>
     </div>

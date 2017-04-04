@@ -152,10 +152,29 @@ footer p{
 }
 .cuadro{
     /*outline: 2px red solid;*/
+    margin-top: 2%;
 }
 .cuadro p{
     margin-top: 10%;
-    margin-right: 2%;
+    margin-right: 3%;
      font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
+}
+.cuadro i{
+    color: #545353;
+}
+ .cuadro:hover i {
+    color: #C01717;
+}
+
+.valores {
+    margin-top: 5%;
+}
+
+.row2{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.tit{
+    margin-top: 0%;
 }
