@@ -185,7 +185,7 @@ footer p{
     /*outline: 2px red solid;*/
     position: relative;
     height: 307px;
-    background: url('../img/bannerser.jpg');
+    background: url('../img/bannerser3.jpg');
     /*background-size: cover;*/
     /*background-position: center center;*/
     background-repeat: no-repeat;
@@ -200,7 +200,7 @@ footer p{
     background-color: rgba(0,0,0,.5);
     width: 15%;
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 13%;
     padding: 10px 0px;
     text-align: center;
     overflow: hidden;
@@ -209,4 +209,32 @@ footer p{
     /*outline: 2px red solid;*/
     width: 80%;
     margin: 0 auto;
+}
+
+/*-----------------contacto------------*/
+.bannercont{
+    /*outline: 2px red solid;*/
+    /*position: relative;*/
+    /*background-color: rgba(0,0,0,0.9);*/
+    height: 420px;
+    background: url('../img/bannercontacto.jpg');
+    /*background-size: cover;*/
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+.bannercont p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    background-color: rgba(0,0,0,.5);
+    width: 15%;
+    margin: 0 auto;
+    margin-top: 13%;
+    padding: 10px 0px;
+    text-align: center;
+    overflow: hidden;
 }

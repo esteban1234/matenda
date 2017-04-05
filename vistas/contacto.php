@@ -1,73 +1,49 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	<article class="contenedorpag">
-			<header>
-			<img src="../img/ambiensup.png" alt="AMBIENSUP ANALISTAS PROFESIONALES" class="img-fondo">
 
-			<div class="col-md-8 pull-right menu">
-				<ul class="nav nav-tabs">
-          <p class="icon-cerrar"><i class="fa fa-times" aria-hidden="true"></i></p>
-					<li role="presentation"><a href="../index.php">Inicio</a></li>
-					<li role="presentation"><a href="nosotros.php">Quienes Somos</a></li>
-					<li role="presentation"><a href="servicios.php">Servicios</a></li>
-					<li role="presentation" class="active"><a href="contacto.php">Contacto</a></li>
-				</ul>
-			</div>
-      <p class="icon-menu"><i class="fa fa-bars" aria-hidden="true"></i></p>
-		</header>
-
-    <a class="go-top" href="#">Subir</a>
-
-		<ul class="breadcrumb text-right submenu">
-		  <li><a href="../index.php">Inicio</a> <span class="divider"></span></li>
-		  <li class="active">Contacto</li>
-		</ul>
-
-
-		<section id="contact" class="content-section text-center">
-        <div class="contact-section">
-            <div class="container">
-              <h2>Formulario de Contacto</h2>
-              <p>Porfavor dejanos tus comentarios a traves de este formulario y nosotros no comunicaremos lo mas pronto posible.</p>
-              <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                  <form action="envia.php" method="post" class="form-horizontal">
-                    <div class="form-group">
-                      <label for="exampleInputName2">Nombre (s)</label>
-                      <input type="text" class="form-control" name="nombre" id="exampleInputName2" placeholder="Escribe tu nombre" required/>
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputEmail2">Email</label>
-                      <input type="email" class="form-control" name="correo" id="exampleInputEmail2" placeholder="ejemplo@ejemplo.com" required/>
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputtel">Teléfono</label>
-                      <input type="text" class="form-control" name="telefono" id="exampleInputtel" placeholder="Escribe tu Teléfono" required/>
-                    </div>
-                    <div class="form-group ">
-                      <label for="exampleInputText">Comentario</label>
-                     <textarea  class="form-control" name="comentario" placeholder="Escribenos tu mensaje" required/></textarea> 
-                    </div>
-                    <button type="submit" class="btn btn-default">Enviar Mensaje</button>
-                  </form>
-
-                  <hr>
-                    
-                </div>
-              </div>
-            </div>
+<div class="navbar navbar-default navbar-static-top contenmenu">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
         </div>
-      </section>
+        <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="">
+              <a href="../index.php"><i class="fa fa-home fa-fw"></i>&nbsp;INDEX</a>
+            </li>
+            <li>
+              <a href="nosotros.php"><i class="fa fa-users fa-fw"></i>&nbsp;NOSOTROS</a>
+            </li>
+            <li>
+              <a href="servicios.php"><i class="fa fa-cogs fa-fw"></i>&nbsp;SERVICIOS</a>
+            </li>
+            <li class="active">
+              <a href="contacto.php"><i class="fa fa-fax fa-fw"></i>&nbsp;CONTACTO</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
+    <div class="bannercont">
+      <p>Contacto</p>
+      <!-- <div class="col-md-6">
+        <img src="../img/matenda.png" alt="MATENDA PROMOTORA" class="img-responsive">
+      </div> -->
+    </div>
 
-
-
-
-
-		<?php include 'pie.php' ?>
-	</article>
-
+    <article class="bannerdirec">
+  <p>Oficina MATENDA PROMOTORA S. de R.L de C.V. E-Mail: <a href="mailto:info@glg.com.mx">info@pendiente</a> Teléfono: pendiente. Calle 3 #235 por 32 y 36 Col. Campestre, Mérida (Yucatán). C.P.97120</p>
+ </article>
+	
+<a class="go-top" href="#">Ir arriba</a>
+<?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>

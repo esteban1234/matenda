@@ -35,8 +35,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <img src="../img/notros3.png"
-            class="img-responsive">
+            <img src="../img/notros3.png" class="img-responsive">
           </div>
           <div class="col-md-6">
             <h1>Sobre MATENDA PROMOTORA</h1>

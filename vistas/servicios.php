@@ -33,7 +33,14 @@
 
     <div class="bannerser">
     	<p>SERVICIOS</p>
+      <!-- <div class="col-md-6">
+        <img src="../img/matenda.png" alt="MATENDA PROMOTORA" class="img-responsive">
+      </div> -->
     </div>
+
+
+
+
     <article class="bannerdirec">
  	<p>Somos una empresa inmobiliaria dedicada a prestar servicios de asesoría en bienes raíces.</p>
  </article>

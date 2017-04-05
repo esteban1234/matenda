@@ -21,7 +21,7 @@ $mail->addAddress("ballina.santiago@gmail.com");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Mensaje de AMBIENSUP";
+$mail->Subject = "Cotización MATENDA";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";
