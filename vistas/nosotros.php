@@ -34,13 +34,13 @@
     <div class="section contenimgtext">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <img src="../img/notros3.png" class="img-responsive">
           </div>
-          <div class="col-md-6">
-            <h1>Sobre MATENDA PROMOTORA</h1>
-            <h3>Inmobiliaria y corredores de bienes raíces</h3>
-            <p>Somos una empresa joven pero con retos,  formados por un grupo de profesionales cuyo objetivo es brindarle su apoyo y conocimiento al momento de invertir o vender un inmueble. Somos una empresa que a través de sus áreas de negocio ofrece un amplia gama de servicios inmobiliarios siguiendo los más altos estándares del ramo. <br><br>
+          <div class="col-sm-6 col-md-6">
+            <h1 class="section-content text-tamaño" >Sobre MATENDA PROMOTORA</h1>
+            <h3 class="section-content text-tamaño">Inmobiliaria y corredores de bienes raíces</h3>
+            <p class="text-justify">Somos una empresa joven pero con retos,  formados por un grupo de profesionales cuyo objetivo es brindarle su apoyo y conocimiento al momento de invertir o vender un inmueble. Somos una empresa que a través de sus áreas de negocio ofrece un amplia gama de servicios inmobiliarios siguiendo los más altos estándares del ramo. <br><br>
 
             <i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;EXCELENCIA EN EL SERVICIO INMOBILIARIO. <br><br>
             <i class="fa fa-check-square-o" aria-hidden="true"></i>&nbsp;TENEMOS LOS ASESORES MEJORES CAPACITADOS.
@@ -55,13 +55,13 @@
      <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 cuadro"><i class="fa fa-address-book fa-5x" aria-hidden="true"></i><p class="pull-right">Asesoría hipotecaria.
+          <div class="col-xs-3 col-sm-3 col-md-3 cuadro oculto"><i class="fa fa-address-book fa-5x" aria-hidden="true"></i><p class="pull-right">Asesoría hipotecaria.
           </p></div>
-          <div class="col-md-3 cuadro"><i class="fa fa-usd fa-5x" aria-hidden="true"></i><p class="pull-right">Mejor precio del mercado.
+          <div class="col-xs-3 col-sm-3 col-md-3 cuadro oculto"><i class="fa fa-usd fa-5x" aria-hidden="true"></i><p class="pull-right">Mejor precio del mercado.
           </p></div>
-          <div class="col-md-3 cuadro"><i class="fa fa-street-view fa-5x" aria-hidden="true"></i><p class="pull-right">Excelentes ubicaciones.
+          <div class="col-xs-3 col-sm-3 col-md-3 cuadro oculto"><i class="fa fa-street-view fa-5x" aria-hidden="true"></i><p class="pull-right">Excelentes ubicaciones.
           </p></div>
-          <div class="col-md-3 cuadro"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i><p class="pull-right">Gran variedad en casas.
+          <div class="col-xs-3 col-sm-3 col-md-3 cuadro oculto"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i><p class="pull-right">Gran variedad en casas.
           </p></div>
         </div>
       </div>
@@ -71,39 +71,47 @@
      <div class="section valores">
       <div class="container">
         <div class="row">
-          <div class="col-md-2">
-            <img src="../img/mision2.jpg"
-            class="img-responsive img-rounded">
+          <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="col-xs-12 col-sm-12 col-md-4">
+              <img src="../img/mision2.jpg"
+              class="img-responsive img-rounded img-logo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8">
+              <h3 class="text-left tit">Misión</h3>
+              <p class="text-left text-justify">Satisfacer a nuestros clientes con un servicio personalizado y profesional, ofreciendo siempre un producto inmobiliario de alta calidad con todos los servicios relacionados con la correduría de bienes raíces.</p>
+            </div>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left tit">Misión</h3>
-            <p class="text-left">Satisfacer a nuestros clientes con un servicio personalizado y profesional, ofreciendo siempre un producto inmobiliario de alta calidad con todos los servicios relacionados con la correduría de bienes raíces.</p>
+
+          <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="col-xs-12 col-sm-12 col-md-4">
+              <img src="../img/vision.jpg" class="img-responsive img-rounded img-logo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8">
+              <h3 class="text-left tit">Visión</h3>
+              <p class="text-left text-justify">Ser la empresa líder en el área de bienes raíces, ofreciendo un servicio con los más estándares de calidad y así lograr satisfacer a nuestros clientes en todas sus necesidades.</p>
+            </div>
           </div>
-          <div class="col-md-2">
-            <img src="../img/vision.jpg"
-            class="img-responsive img-rounded">
-          </div>
-          <div class="col-md-4">
-            <h3 class="text-left tit">Visión</h3>
-            <p class="text-left">Ser la empresa líder en el área de bienes raíces, ofreciendo un servicio con los más estándares de calidad y así lograr satisfacer a nuestros clientes en todas sus necesidades.</p>
-          </div>
+
         </div>
         <div class="row row2">
-          <div class="col-md-2">
-            <img src="../img/objetivo.jpg"
-            class="img-responsive img-rounded">
+            <div class="col-sm-6 col-md-6 col-lg-6">
+              <div class="col-xs-12 col-sm-12 col-md-4">
+              <img src="../img/objetivo.jpg" class="img-responsive img-rounded img-logo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8">
+              <h3 class="text-left tit">Objetivo</h3>
+              <p class="text-left text-justify">Alcanzar y mantener los más altos estándares de satisfacción al cliente en el sector inmobiliario, a través de nuestros inmuebles y servicios innovadores.</p>
+            </div>
           </div>
-          <div class="col-md-4">
-            <h3 class="text-left tit">Objetivo</h3>
-            <p class="text-left">Alcanzar y mantener los más altos estándares de satisfacción al cliente en el sector inmobiliario, a través de nuestros inmuebles y servicios innovadores.</p>
-          </div>
-          <div class="col-md-2">
-            <img src="../img/valores.jpg"
-            class="img-responsive img-rounded">
-          </div>
-          <div class="col-md-4 text-center">
-            <h3 class="text-left tit">Valores</h3>
-            <p class="text-left">Transparencia, Éxito, Excelencia, Comunicación, Trabajo en equipo, Formación, Consistencia, Pertenencia</p>
+
+          <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="col-xs-12 col-sm-12 col-md-4">
+              <img src="../img/valores.jpg" class="img-responsive img-rounded img-logo">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 text-center">
+              <h3 class="text-left tit">Valores</h3>
+              <p class="text-left text-justify">Transparencia, Éxito, Excelencia, Comunicación, Trabajo en equipo, Formación, Consistencia, Pertenencia</p>
+            </div>
           </div>
         </div>
       </div>

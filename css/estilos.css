@@ -17,15 +17,11 @@
 }
 
 .contenbanner{
-    /*outline: 2px red solid;*/
     margin-top: 0px;
     position: relative;
     height: 410px;
     background: url('../img/banner.jpg') no-repeat center;
     background-size: cover;
-    /*background-position: center center;*/
-    /*background-repeat: no-repeat;*/
-    /*background-attachment: fixed;*/
     overflow: hidden;
     clear: both;
 }
@@ -252,6 +248,7 @@ footer p{
   text-align: center; 
 
 }
+
 #contact{
     
     font-family: 'Teko', sans-serif;

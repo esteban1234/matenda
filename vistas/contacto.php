@@ -49,29 +49,29 @@
       </div>
       <div class="contact-section">
       <div class="container">
-        <form>
+        <form action="envia.php" method="post">
           <div class="col-md-6 form-line">
               <div class="form-group">
                 <label for="exampleInputUsername">Nombre (s)</label>
-                <input type="text" class="form-control" id="" placeholder="Escribe tu nombre completo">
+                <input type="text" class="form-control" id="" name="nombre" placeholder="Escribe tu nombre completo" required/>
               </div>
               <div class="form-group">
                 <label for="exampleInputEmail">E-mail</label>
-                <input type="email" class="form-control" id="exampleInputEmail" placeholder="Escribe tu correo electronico">
+                <input type="email" class="form-control" id="exampleInputEmail" name="correo" placeholder="Escribe tu correo electronico" required/>
               </div>  
               <div class="form-group">
                 <label for="telephone">Teléfono</label>
-                <input type="tel" class="form-control" id="telephone" placeholder="Escribe tu numero teléfonico">
+                <input type="tel" class="form-control" id="telephone" name="telefono" placeholder="Escribe tu numero teléfonico" required/>
               </div>
             </div>
             <div class="col-md-6">
               <div class="form-group">
                 <label for ="description">Comentario</label>
-                <textarea  class="form-control" id="description" placeholder="Escribenos tu mensaje"></textarea>
+                <textarea  class="form-control" id="description" name="comentario" placeholder="Escribenos tu mensaje" required/></textarea>
               </div>
               <div>
 
-                <button type="button" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>&nbsp;Enviar Mensaje</button>
+                <button type="submit" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>&nbsp;Enviar Mensaje</button>
               </div>
               
           </div>

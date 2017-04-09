@@ -1,0 +1,294 @@
+@media screen and (max-width: 480px){
+
+    /*****************DISEÑO INDEX********************/
+    .contenbanner{
+        height: 280px;
+        background-size: 100% 100%;
+    }
+    
+    .contenbanner p{
+        font-size: 22px;
+    }
+
+    .contenbanner .botonbanner{
+        display: none;
+    }
+
+    .bannerdirec{
+        text-align: justify;
+        padding: 20px 15px;
+        font-size: 15px;
+    }
+
+    .texto{
+        font-size: 18px;
+    }
+
+    .img-redondo{
+        border-radius: 5%;
+    }
+
+    .h3-fontsize{
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .boton2{
+        margin-bottom: 10%;
+    }
+
+    .boton2 a{
+        padding: 15px 60px; 
+        font-size: 25px;
+    }
+
+    .row .extends-ancho{
+        width: 100%;
+    }
+
+    .extends-ancho img{
+        width: 100%;
+    }
+
+    /**************DISEÑO NOSOTROS**************/
+    .oculto{
+        display: none;
+    }
+
+    .img-logo
+    {
+        width: 100%;
+    }
+
+    .tit{
+        text-align: center;
+        padding: 5%;
+        font-weight: bold;
+    }
+
+    .text-justify{
+        text-align: justify;
+        padding: 3% 0px;
+    }
+
+    .text-tamaño{
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .titulo{
+        font-size: 25px;
+        text-align: center
+    }
+
+    /******************DISEÑO SERVICIOS*******************/
+    .bannerser{
+        display: none;
+    }
+    
+    .contenpuntos p{
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .bannerdirec p{
+        text-align: center;
+    }
+
+    .boton2{
+        margin-top: 10%;
+    }
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+    /*****************DISEÑO INDEX********************/
+
+    .contenbanner{
+        height: 280px;
+        background-size: 100% 100%;
+    }
+
+    .texto{
+        font-size: 20px;
+    }
+
+    .contenbanner .botonbanner{
+        display: none;
+    }
+
+     .h3-fontsize{
+        font-size: 18px;
+        text-align: center;
+    }
+
+     .row .extends-ancho{
+        width: 100%;
+    }
+
+    .extends-ancho img{
+        width: 100%;
+    }
+
+     .img-redondo{
+        border-radius: 5%;
+    }
+
+    /**************DISEÑO NOSOTROS**************/
+    .oculto{
+        display: none;
+    }
+
+     .img-logo
+    {
+        width: 80%;
+        margin: auto;
+    }
+
+    .tit{
+        text-align: center;
+        padding: 5%;
+        font-weight: bold;
+    }
+
+    .text-justify{
+        text-align: justify;
+        padding: 3% 10%;
+    }
+
+    .text-tamaño{
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+     .titulo{
+        font-size: 25px;
+        text-align: center
+    }
+
+     /******************DISEÑO SERVICIOS*******************/
+    .contenpuntos p{
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .bannerdirec p{
+        text-align: center;
+    }
+
+    .boton2{
+        margin-top: 10%;
+    }
+
+    .bannerser{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+    /*****************DISEÑO INDEX********************/
+    
+    .contenbanner{
+        height: 280px;
+        background-size: 100% 100%;
+    }
+
+    .contenbanner .botonbanner{
+        display: none;
+    }
+    
+     .h3-fontsize{
+        font-size: 18px;
+        text-align: center;
+    }
+    
+     .extends-ancho img{
+        width: 100%;
+    }
+
+     .img-redondo{
+        border-radius: 5%;
+    }
+
+     /**************DISEÑO NOSOTROS**************/
+    .oculto{
+        display: none;
+    }
+
+     .img-logo
+    {
+        width: 65%;
+        margin: auto;
+    }
+
+    .tit{
+        text-align: center;
+        padding: 5%;
+        font-weight: bold;
+    }
+
+    .text-justify{
+        text-align: justify;
+        padding: 3% 10%;
+    }
+
+     .titulo{
+        font-size: 25px;
+        text-align: center
+    }
+
+     /******************DISEÑO SERVICIOS*******************/
+    .contenpuntos p{
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .bannerdirec p{
+        text-align: center;
+    }
+
+    .boton2{
+        margin-top: 10%;
+    }
+
+    .bannerser p{
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+    /*****************DISEÑO INDEX********************/
+    
+    .contenbanner{
+        height: 280px;
+        background-size: 100% 100%;
+    }
+
+     .img-logo
+    {
+        width: 100%;
+        margin: auto;
+    }
+
+    .tit{
+        text-align: center;
+        padding: 5%;
+        font-weight: bold;
+    }
+
+    .text-justify{
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) { 
+    /*****************DISEÑO INDEX********************/
+    
+    .contenbanner{
+        height: 280px;
+        background-size: 100% 100%;
+    }     
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

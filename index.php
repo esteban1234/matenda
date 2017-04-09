@@ -30,25 +30,19 @@
       </div>
     </div>
 
-    <!-- <article class="banner">
-    	<img src="img/matenda.png" alt="">
-    </article>
- -->
- <div class="section uno">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 contenbanner">
+  <div class="section uno">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 contenbanner">
           <p>Soluciones inmobiliarias integrales.</p>
-          	<a href="vistas/contacto.php"><button type="button" class="btn btn-danger btn-lg botonbanner">Contáctanos</button></a>
-          	<!-- <p class="boton"><a href="vistas/contacto.php">Contáctanos</a></p> -->
-          </div>
-          <div class="col-md-6">
-          	<img src="img/matenda.png" alt="MATENDA PROMOTORA" class="img-responsive">
-          	
-          </div>
+          <a href="vistas/contacto.php"><button type="button" class="btn btn-danger btn-lg botonbanner">Contáctanos</button></a>
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+          <img src="img/matenda.png" alt="MATENDA PROMOTORA" class="img-responsive">
         </div>
       </div>
     </div>
+  </div>
 
  <article class="bannerdirec">
  	<p>Oficina MATENDA PROMOTORA S. de R.L de C.V. E-Mail: <a href="mailto:info@glg.com.mx">info@pendiente</a> Teléfono: pendiente. Calle 3 #235 por 32 y 36 Col. Campestre, Mérida (Yucatán). C.P.97120</p>
@@ -59,29 +53,24 @@
  <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
-            <img src="img/guia.jpg"
-            class="img-responsive">
-            <h3>Te proporcionamos una guia para vender tu casa</h3>
-            
+          <div class="col-xs-6 col-sm-6 col-md-3 extends-ancho">
+            <img src="img/guia.jpg" class="img-responsive img-redondo">
+            <h3 class="h3-fontsize">Te proporcionamos una guia para vender tu casa</h3>
           </div>
-          <div class="col-md-3">
-            <img src="img/guia.jpg"
-            class="img-responsive">
-            <h3>Te proporcionamos una guia para comprar tu casa</h3>
-            
+          
+          <div class="col-xs-6 col-sm-6 col-md-3 extends-ancho">
+            <img src="img/guia.jpg" class="img-responsive img-redondo">
+            <h3 class="h3-fontsize">Te proporcionamos una guia para comprar tu casa</h3>
           </div>
-          <div class="col-md-3">
-            <img src="img/agenc.jpg"
-            class="img-responsive">
-            <h3>Somos agencia pero tambien particulares</h3>
-            
+
+          <div class="col-xs-6 col-sm-6 col-md-3 extends-ancho">
+            <img src="img/agenc.jpg" class="img-responsive img-redondo">
+            <h3 class="h3-fontsize">Somos agencia pero tambien particulares</h3>
           </div>
-          <div class="col-md-3">
-            <img src="img/tramites.jpg"
-            class="img-responsive">
-            <h3>Todos los tramites son transparentes</h3>
-            
+
+          <div class="col-xs-6 col-sm-6 col-md-3 extends-ancho">
+            <img src="img/tramites.jpg" class="img-responsive img-redondo">
+            <h3 class="h3-fontsize">Todos los tramites son transparentes</h3>
           </div>
         </div>
       </div>
