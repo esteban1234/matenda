@@ -99,6 +99,51 @@
         margin-top: 10%;
     }
 
+    /*^*************DISEÑO CONTACTO****************/
+    .bannercont{
+        height: 280px;
+    }
+
+    .bannercont p{
+        width: 35%;
+    }
+
+    .form-line{
+        border: none;
+    }
+
+    #contact{
+        height: 100%;
+        padding-bottom: 10%;
+    }
+
+     .form-control{
+        font-size: 15px;
+    }
+
+    .section-header{
+        font-size: 25px;
+    }
+
+    .content-header{
+        font-size: 23px;
+    }
+
+    .section-content h3{
+        text-align: justify;
+        font-size: 18px;
+        padding: 0px 8%; 
+    }
+
+    .bannerdirec{
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .bannerdirec p{
+        text-align: justify;
+    }
+
 }
 
 @media screen and (max-width: 599px) and (min-width: 481px) {
@@ -183,6 +228,52 @@
     .bannerser{
         display: none;
     }
+
+     /*^*************DISEÑO CONTACTO****************/
+    .bannercont{
+        height: 280px;
+    }
+
+    .bannercont p{
+        width: 35%;
+    }
+
+     .form-line{
+        border: none;
+    }
+
+    #contact{
+        height: 100%;
+        padding-bottom: 10%;
+    }
+
+     .form-control{
+        font-size: 15px;
+    }
+
+     .section-header{
+        font-size: 25px;
+    }
+
+    .content-header{
+        font-size: 23px;
+    }
+
+    .section-content h3{
+        text-align: justify;
+        font-size: 18px;
+        padding: 0px 8%; 
+    }
+
+    .bannerdirec{
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .bannerdirec p{
+        text-align: justify;
+    }
+
 }
 
 @media screen and (max-width: 799px) and (min-width: 600px) {
@@ -254,6 +345,52 @@
     .bannerser p{
         width: 30%;
     }
+
+     /*^*************DISEÑO CONTACTO****************/
+    .bannercont{
+        height: 280px;
+    }
+
+    .bannercont p{
+        width: 25%;
+    }
+
+     .form-line{
+        border: none;
+    }
+
+    #contact{
+        height: 100%;
+        padding-bottom: 10%;
+    }
+
+    .form-control{
+        font-size: 15px;
+    }
+
+     .section-header{
+        font-size: 28px;
+    }
+
+    .content-header{
+        font-size: 28px;
+    }
+
+    .section-content h3{
+        text-align: justify;
+        font-size: 18px;
+        padding: 0px 8%; 
+    }
+
+    .bannerdirec{
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .bannerdirec p{
+        font-size: 16px;
+    }
+
 }
 
 @media screen and (max-width: 1023px) and (min-width: 800px) {
