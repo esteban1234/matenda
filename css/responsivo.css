@@ -101,12 +101,9 @@
 
     /*^*************DISEÑO CONTACTO****************/
     .bannercont{
-        height: 280px;
+        display: none;
     }
 
-    .bannercont p{
-        width: 35%;
-    }
 
     .form-line{
         border: none;
@@ -231,11 +228,7 @@
 
      /*^*************DISEÑO CONTACTO****************/
     .bannercont{
-        height: 280px;
-    }
-
-    .bannercont p{
-        width: 35%;
+        display: none;
     }
 
      .form-line{
@@ -348,11 +341,7 @@
 
      /*^*************DISEÑO CONTACTO****************/
     .bannercont{
-        height: 280px;
-    }
-
-    .bannercont p{
-        width: 25%;
+        display: none;
     }
 
      .form-line{
