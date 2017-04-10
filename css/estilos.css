@@ -178,12 +178,9 @@ footer p{
 /*------------------servicios----------------*/
 
 .bannerser{
-    /*outline: 2px red solid;*/
     position: relative;
     height: 307px;
     background: url('../img/bannerser3.jpg');
-    /*background-size: cover;*/
-    /*background-position: center center;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     overflow: hidden;
@@ -209,12 +206,8 @@ footer p{
 
 /*-----------------contacto------------*/
 .bannercont{
-    /*outline: 2px red solid;*/
-    /*position: relative;*/
-    /*background-color: rgba(0,0,0,0.9);*/
     height: 420px;
     background: url('../img/bannercontacto.jpg');
-    /*background-size: cover;*/
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -238,7 +231,6 @@ footer p{
 /*-------------------contacto------------*/
 
 .content-header{
-  /*font-family: 'Oleo Script', cursive;*/
   font-family: 'Roboto Condensed', sans-serif;
   color:#fcc500;
   font-size: 45px;
