@@ -45,7 +45,7 @@
   </div>
 
  <article class="bannerdirec">
- 	<p>Oficina MATENDA PROMOTORA S. de R.L de C.V. E-Mail: <a href="mailto:info@glg.com.mx">info@pendiente</a> Teléfono: pendiente. Calle 3 #235 por 32 y 36 Col. Campestre, Mérida (Yucatán). C.P.97120</p>
+ 	<p>Oficina MATENDA PROMOTORA S. de R.L de C.V. E-Mail: <a href="mailto:info@matenda.net">info@matenda.net/a> Teléfono: pendiente. Calle 3 #235 por 32 y 36 Col. Campestre, Mérida (Yucatán). C.P.97120</p>
  </article>
 
  <h3 class="texto">MATENDA PROMOTORA: La red inmobiliaria para tu alcance</h3>
